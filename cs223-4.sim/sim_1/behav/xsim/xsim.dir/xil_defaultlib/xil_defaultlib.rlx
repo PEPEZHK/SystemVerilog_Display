@@ -1,0 +1,13 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/perhat.amanlyyev/cs223-4/cs223-4.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-4/cs223-4.srcs/sim_1/new/disp2_tb.sv,1712712892,systemVerilog,,,,disp2_tb,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-4/cs223-4.srcs/sim_1/new/disp_tb.sv,1712712121,systemVerilog,,,,disp_tb,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-4/cs223-4.srcs/sim_1/new/flop_tb.sv,1712697539,systemVerilog,,,,flop_tb,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-4/cs223-4.srcs/sim_1/new/reg_tb.sv,1712699473,systemVerilog,,,,reg_tb,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-4/cs223-4.srcs/sources_1/new/dflop.sv,1712696958,systemVerilog,,C:/Users/perhat.amanlyyev/cs223-4/cs223-4.srcs/sim_1/new/reg_tb.sv,,multireg,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-4/cs223-4.srcs/sources_1/new/disp2Dec.sv,1712712657,systemVerilog,,C:/Users/perhat.amanlyyev/cs223-4/cs223-4.srcs/sources_1/new/dispDec.sv,,disp2Dec,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-4/cs223-4.srcs/sources_1/new/dispDec.sv,1712711966,systemVerilog,,C:/Users/perhat.amanlyyev/cs223-4/cs223-4.srcs/sim_1/new/disp2_tb.sv,,dispDec,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-4/cs223-4.srcs/sources_1/new/strReg.sv,1712699611,systemVerilog,,C:/Users/perhat.amanlyyev/cs223-4/cs223-4.srcs/sim_1/new/reg_tb.sv,,flop;mux;strReg,,uvm,,,,,,

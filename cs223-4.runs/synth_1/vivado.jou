@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Mon Apr 15 15:06:25 2024
+# Process ID: 11796
+# Current directory: C:/Users/perhat.amanlyyev/cs223-4/cs223-4.runs/synth_1
+# Command line: vivado.exe -log disp2Dec.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source disp2Dec.tcl
+# Log file: C:/Users/perhat.amanlyyev/cs223-4/cs223-4.runs/synth_1/disp2Dec.vds
+# Journal file: C:/Users/perhat.amanlyyev/cs223-4/cs223-4.runs/synth_1\vivado.jou
+# Running On: DESKTOP-ML7DN5U, OS: Windows, CPU Frequency: 2688 MHz, CPU Physical cores: 6, Host memory: 16888 MB
+#-----------------------------------------------------------
+source disp2Dec.tcl -notrace
